@@ -1,0 +1,22 @@
+div{
+    width: 300px;
+    height: 300px;
+    float: right;
+}
+
+.el1{
+    background-color: rgb(2, 240, 22);
+    float: left;
+}
+
+.el2{
+     background-color: rgb(241, 8, 8);
+    float: left;
+}
+.el3{
+    background-color: rgb(127, 0, 247);
+    
+}
+.el4{
+    background-color: black;
+}
